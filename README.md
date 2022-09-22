@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there generals 👋
 
 <!--
 **gooners006/gooners006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/Lazy_Rider"><img src="https://api.daily.dev/devcards/ed665ba53c574210bfd677924a99a2c5.png?r=55o" width="400" alt="Việt Anh Ngô Vi's Dev Card"/></a>
