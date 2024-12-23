@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/Lazy_Rider"><img src="https://api.daily.dev/devcards/ed665ba53c574210bfd677924a99a2c5.png?r=55o" width="400" alt="Việt Anh Ngô Vi's Dev Card"/></a>
+<a href="https://app.daily.dev/lazy_rider"><img src="https://api.daily.dev/devcards/v2/pX4RfdswrEdBgbDjAfrMT.png?r=amu&type=default" width="356" alt="Việt Anh Ngô Vi's Dev Card"/></a>
